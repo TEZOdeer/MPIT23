@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NE-BEZDARI</string>
+    <string name="login_text">Авторизация</string>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="reset_password">Забыл пароль</string>
+    <string name="login_hint">Логин</string>
+    <string name="password_hint">Пароль</string>
+    <string name="user">Иванов Иван Иваныч</string>
+    <string name="choose_category">Выберите категорию:</string>.
+    <string name="menu1">Трудоустройство</string>
+    <string name="menu2">Повышение компетенции</string>
+    <string name="menu3">Предоставление услуг</string>
+    <string name="Error_Authorisation">Неправильные данные для входа!</string>
+    <string name="Registration">Регистрация</string>
+    <string name="User_type">Вы:</string>
+    <string name="User_type_student">Студент</string>
+    <string name="User_type_user">Пользователь</string>
+    <string name="title_home">Образование</string>
+    <string name="title_dashboard">Курсы</string>
+    <string name="title_notifications">Профиль</string>
+    <string name="ed_1">ГАПОУ ЯКСЭ</string>
+    <string name="ed_2">Какой-то курс</string>
+    <string name="Rating">Рейтинг: ☺5</string>
+    <string name="filter">Фильтр</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="User_name">Иванов Иван Иваныч</string>
+    <string name="exit">Выйти из профиля</string>
+    <string name="resume">Изменить резюме</string>
+    <string name="change_login">Изменить логин</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="YOUR_city">Ваш город: Якутск</string>
+    <string name="my_resume">Моё резюме</string>
+</resources>
